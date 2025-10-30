@@ -1,0 +1,30 @@
+﻿# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS
+Thumbs.db
+.DS_Store
